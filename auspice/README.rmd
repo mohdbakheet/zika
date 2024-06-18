@@ -1,0 +1,1 @@
+This is an example for using NextStrain to generate phylogenetic trees
